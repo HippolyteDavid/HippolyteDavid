@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hippolyte DAVID</h1>
 <h3 align="center">A French student developer currently in Canada 🇨🇦</h3>
 
-- 🔭 I’m currently working on [Eido, an AI based app to help students in their revisions](eido-edu.com)
+- 🔭 I’m currently working on [Eido, an AI based app to help students in their revisions](https://eido-edu.com)
 
 - 🌱 I’m currently learning **Go and Swift**
 
-- 👯 Previously worked on [Zephyr](zephyr-weather.fr)
+- 👯 Previously worked on [Zephyr](https://zephyr-weather.fr)
 
 - 📫 How to reach me **hippodavid24@gmail.com**
 
