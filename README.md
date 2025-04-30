@@ -7,7 +7,7 @@
 
 - 👯 Previously worked on [Zephyr](https://zephyr-weather.fr)
 
-- 📫 How to reach me **hippodavid24@gmail.com**
+- 📫 Reach me at **hippodavid24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
