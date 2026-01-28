@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Eido, an AI based app to help students in their revisions](https://eido-edu.com), available on [iOS](https://apps.apple.com/fr/app/eido/id6745460509) and soon on Android !
 
-- 🌱 I’m currently learning **Go, Swift and MongoDB**
+- 🌱 I’m currently learning **C# and Angular**
 
 - 👯 Previously worked on [Zephyr](https://zephyr-ab6ca.web.app/)
 
